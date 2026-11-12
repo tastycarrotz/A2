@@ -5,8 +5,7 @@ Virtual Reality (VR) / Mixed Reality (MR) with the Meta XR SDK Building Block ap
 ## Installation
 
 1. Go to the Releases page of this repository.
-2. Download the APK and install it on an  Meta Quest headsets compatible with ARCore.
-3. 
+2. Download the APK and install it on an  Meta Quest headsets compatible.
 
 ## Usage
 
@@ -16,9 +15,9 @@ Virtual Reality (VR) / Mixed Reality (MR) with the Meta XR SDK Building Block ap
 
 ## Contributing
 
-- Florencia Elorza: Activity 1 (anchors addition, documentation)
-- Laura Garriga: Activity 2 (AR image tracking, reference image library, documentation)
-- Emma Vega: Activity 3 (occlusion scene, ball prefab, documentation)
+- Activity 1: The three members of the group collaborated (Florencia E., Laura G, Emma V.).
+- Activity 2: The three members of the group collaborated (Florencia E., Laura G, Emma V.).
+- Activity 3: The three members of the group collaborated (Florencia E., Laura G, Emma V.).
 
 ## History
 
