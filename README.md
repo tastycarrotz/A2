@@ -21,12 +21,7 @@ Virtual Reality (VR) / Mixed Reality (MR) with the Meta XR SDK Building Block ap
 
 ## History
 
-The integration of plane detection and instantiation of a 3D model (cat) on a detected plane. The addition of a reference image library of 3 different images and an AR tracked image manager component to the project. The library is referenced with a new prefab of the 3D model of a bomb. Additionally the use of simple occlusion to throw that same bomb into the air that will disappear behind real objects. 
-
-
-## Credits
-
-Based on the Unity AR Foundation samples (branch 6.4): https://github.com/Unity-Technologies/arfoundation-samples
+A Virtual Reality (VR) / Mixed Reality (MR) APK using the Unity Engine and the Meta XR SDK Building Blocks in the Meta Quest headsets. Thanks to the implementation of standard Building Blocks features—such as Grab and Locomotion and Hand Tracking (MR)—the user is able to use their hands to grasp virtual objects (the Minecraft sword) and interact with others (wooden blocks).
 
 ## License
 
